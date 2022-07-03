@@ -2,7 +2,6 @@
 // problem-link: https://codeforces.com/problemset/problem/996/A
 // status: accepted
 //============================================================================
-
 import java.util.Scanner;
 
 public class HitTheLottery {
